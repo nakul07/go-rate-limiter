@@ -9,7 +9,7 @@ This Go application implements a rate-limiting middleware using the Token Bucket
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nakul07/go-rate-limiter.git
    cd go-rate-limiter
    ```
 
